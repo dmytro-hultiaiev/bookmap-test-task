@@ -1,0 +1,11 @@
+u,9,1,bid
+u,8,3,bid
+u,10,2,ask
+q,best_bid
+u,11,5,ask
+q,best_ask
+o,sell,1
+q,best_bid
+q,size,9
+u,9,3,bid
+q,size,9
